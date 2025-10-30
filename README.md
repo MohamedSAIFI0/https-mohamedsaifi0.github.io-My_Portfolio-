@@ -19,7 +19,6 @@ I'm a passionate Data Engineering student specializing in data analysis and proc
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
 ### Data Engineering & Big Data
-- **Languages:**Python, SQL, 
 - **Python Libraries:** NumPy, Pandas, Matplotlib, PySpark, FastAPI, Django
 - **Databases:** MySQL, PostgreSQL, MongoDB, Cassandra
 - **ETL & Orchestration:** Apache Airflow, dbt
@@ -102,3 +101,4 @@ I'm always interested in collaborating on data engineering projects or discussin
 ---
 
 ⭐️ From [mohamedsaifi0](https://github.com/mohamedsaifi0)
+
